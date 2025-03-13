@@ -4,4 +4,4 @@ Fix #<gh-issue-id>
 
 Test URLs:
 - Before: https://main--paolom-creditacceptance-130325--aemdemos.aem.live/
-- After: https://<branch>--paolom-creditacceptance-130325--aemdemos.aem.live/
+- After: https://main--paolom-creditacceptance-130325--aemdemos.aem.live/
