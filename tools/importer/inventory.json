@@ -1,0 +1,242 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "instances": [
+        {
+          "url": "https://www.creditacceptance.com/",
+          "urlHash": "3ce32342ad47e4ff492537237f789c86fb6e2f74",
+          "uuid": "3ce32342-00-b50d78197d86bb5d9b4de0507122d4c48b47528b",
+          "xpath": "/html[1]/body[1]/app-root[1]/div[1]/app-home-page[1]/app-header[1]"
+        },
+        {
+          "url": "https://www.creditacceptance.com/",
+          "urlHash": "3ce32342ad47e4ff492537237f789c86fb6e2f74",
+          "uuid": "3ce32342-01-7e8460b2bb3c45fd89820bba73dd6df4a609c6c5",
+          "xpath": "/html[1]/body[1]/app-root[1]/div[1]/app-home-page[1]/div[1]"
+        },
+        {
+          "url": "https://www.creditacceptance.com/",
+          "urlHash": "3ce32342ad47e4ff492537237f789c86fb6e2f74",
+          "uuid": "3ce32342-02-d69e5424fda6c89ec850e139264c4bb1ecab9b39",
+          "xpath": "/html[1]/body[1]/app-root[1]/div[1]/app-home-page[1]/app-hero-image[1]"
+        },
+        {
+          "url": "https://www.creditacceptance.com/",
+          "urlHash": "3ce32342ad47e4ff492537237f789c86fb6e2f74",
+          "uuid": "3ce32342-03-242648c6ebf061b5d52efe873cc792662b34ad40",
+          "xpath": "/html[1]/body[1]/app-root[1]/div[1]/app-home-page[1]/app-credit-introduction[1]"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "instances": [
+        {
+          "url": "https://www.creditacceptance.com/",
+          "urlHash": "3ce32342ad47e4ff492537237f789c86fb6e2f74",
+          "uuid": "3ce32342-18-c4013abcc381d161543b87670a7625b09d29824f",
+          "xpath": "/html[1]/body[1]/app-root[1]/div[1]/app-home-page[1]/app-footer[1]"
+        },
+        {
+          "url": "https://www.creditacceptance.com/",
+          "urlHash": "3ce32342ad47e4ff492537237f789c86fb6e2f74",
+          "uuid": "3ce32342-17-43a1ba059aea123367d6e79fadfd36fe01147ba1",
+          "xpath": "/html[1]/body[1]/app-root[1]/div[1]/app-home-page[1]/app-sitemap[1]"
+        },
+        {
+          "url": "https://www.creditacceptance.com/",
+          "urlHash": "3ce32342ad47e4ff492537237f789c86fb6e2f74",
+          "uuid": "3ce32342-16-23992c30aa5c95450c70ef6bc80117b1a993d00e",
+          "xpath": "/html[1]/body[1]/app-root[1]/div[1]/app-home-page[1]/div[3]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.creditacceptance.com/",
+          "urlHash": "3ce32342ad47e4ff492537237f789c86fb6e2f74",
+          "uuid": "3ce32342-15-2d5f755c4aca36719873c74c02b77d1fdc6a60d6",
+          "xpath": "/html[1]/body[1]/app-root[1]/div[1]/app-home-page[1]/div[3]/div[1]/div[1]"
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Columns (two columns)",
+      "cluster": 1,
+      "instances": [
+        {
+          "url": "https://www.creditacceptance.com/",
+          "urlHash": "3ce32342ad47e4ff492537237f789c86fb6e2f74",
+          "uuid": "3ce32342-08-9c04b4ea4751db08e6494cabe04563abb5b54abd",
+          "xpath": "/html[1]/body[1]/app-root[1]/div[1]/app-home-page[1]/div[2]/div[1]/app-acceptance-card[1]"
+        },
+        {
+          "url": "https://www.creditacceptance.com/",
+          "urlHash": "3ce32342ad47e4ff492537237f789c86fb6e2f74",
+          "uuid": "3ce32342-16-23992c30aa5c95450c70ef6bc80117b1a993d00e",
+          "xpath": "/html[1]/body[1]/app-root[1]/div[1]/app-home-page[1]/div[3]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Fragment",
+      "cluster": 2,
+      "instances": [
+        {
+          "url": "https://www.creditacceptance.com/",
+          "urlHash": "3ce32342ad47e4ff492537237f789c86fb6e2f74",
+          "uuid": "3ce32342-18-c4013abcc381d161543b87670a7625b09d29824f",
+          "xpath": "/html[1]/body[1]/app-root[1]/div[1]/app-home-page[1]/app-footer[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns (two columns)",
+      "cluster": 3,
+      "instances": [
+        {
+          "url": "https://www.creditacceptance.com/",
+          "urlHash": "3ce32342ad47e4ff492537237f789c86fb6e2f74",
+          "uuid": "3ce32342-09-9ce1bf4f6a94ff85678fd0a4a0edb4e002921790",
+          "xpath": "/html[1]/body[1]/app-root[1]/div[1]/app-home-page[1]/app-image-text-overlay[1]"
+        }
+      ]
+    },
+    {
+      "name": "Carousel (multiple)",
+      "cluster": 4,
+      "instances": [
+        {
+          "url": "https://www.creditacceptance.com/",
+          "urlHash": "3ce32342ad47e4ff492537237f789c86fb6e2f74",
+          "uuid": "3ce32342-17-43a1ba059aea123367d6e79fadfd36fe01147ba1",
+          "xpath": "/html[1]/body[1]/app-root[1]/div[1]/app-home-page[1]/app-sitemap[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 5,
+      "instances": [
+        {
+          "url": "https://www.creditacceptance.com/",
+          "urlHash": "3ce32342ad47e4ff492537237f789c86fb6e2f74",
+          "uuid": "3ce32342-13-6f1eda1ecb43c2867238dc0c83623ee480f6a097",
+          "xpath": "/html[1]/body[1]/app-root[1]/div[1]/app-home-page[1]/app-hear-from-people[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 6,
+      "instances": [
+        {
+          "url": "https://www.creditacceptance.com/",
+          "urlHash": "3ce32342ad47e4ff492537237f789c86fb6e2f74",
+          "uuid": "3ce32342-00-b50d78197d86bb5d9b4de0507122d4c48b47528b",
+          "xpath": "/html[1]/body[1]/app-root[1]/div[1]/app-home-page[1]/app-header[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 7,
+      "instances": [
+        {
+          "url": "https://www.creditacceptance.com/",
+          "urlHash": "3ce32342ad47e4ff492537237f789c86fb6e2f74",
+          "uuid": "3ce32342-01-7e8460b2bb3c45fd89820bba73dd6df4a609c6c5",
+          "xpath": "/html[1]/body[1]/app-root[1]/div[1]/app-home-page[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns (three columns)",
+      "cluster": 8,
+      "instances": [
+        {
+          "url": "https://www.creditacceptance.com/",
+          "urlHash": "3ce32342ad47e4ff492537237f789c86fb6e2f74",
+          "uuid": "3ce32342-11-dbadd5c8218d6b724897f52fc7c0408f0bf99915",
+          "xpath": "/html[1]/body[1]/app-root[1]/div[1]/app-home-page[1]/app-numbers-speak[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 9,
+      "instances": [
+        {
+          "url": "https://www.creditacceptance.com/",
+          "urlHash": "3ce32342ad47e4ff492537237f789c86fb6e2f74",
+          "uuid": "3ce32342-02-d69e5424fda6c89ec850e139264c4bb1ecab9b39",
+          "xpath": "/html[1]/body[1]/app-root[1]/div[1]/app-home-page[1]/app-hero-image[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns (two columns)",
+      "cluster": 10,
+      "instances": [
+        {
+          "url": "https://www.creditacceptance.com/",
+          "urlHash": "3ce32342ad47e4ff492537237f789c86fb6e2f74",
+          "uuid": "3ce32342-06-7fd36f5747c9bd2ce2c578460165294441c8cf4d",
+          "xpath": "/html[1]/body[1]/app-root[1]/div[1]/app-home-page[1]/app-users-toggle[1]/div[2]/div[1]"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://www.creditacceptance.com/",
+      "urlHash": "3ce32342ad47e4ff492537237f789c86fb6e2f74",
+      "uuid": "3ce32342-03-242648c6ebf061b5d52efe873cc792662b34ad40",
+      "xpath": "/html[1]/body[1]/app-root[1]/div[1]/app-home-page[1]/app-credit-introduction[1]"
+    },
+    {
+      "url": "https://www.creditacceptance.com/",
+      "urlHash": "3ce32342ad47e4ff492537237f789c86fb6e2f74",
+      "uuid": "3ce32342-04-ed2b85cc36b8e48a441d63a25d40debf1f632c71",
+      "xpath": "/html[1]/body[1]/app-root[1]/div[1]/app-home-page[1]/app-users-toggle[1]/div[1]"
+    },
+    {
+      "url": "https://www.creditacceptance.com/",
+      "urlHash": "3ce32342ad47e4ff492537237f789c86fb6e2f74",
+      "uuid": "3ce32342-05-9c9f40d5ed7065fe7801cb8cb10e668a13413ee6",
+      "xpath": "/html[1]/body[1]/app-root[1]/div[1]/app-home-page[1]/app-users-toggle[1]/div[2]/nav[1]"
+    },
+    {
+      "url": "https://www.creditacceptance.com/",
+      "urlHash": "3ce32342ad47e4ff492537237f789c86fb6e2f74",
+      "uuid": "3ce32342-07-e3b533a3aab7f2c63a8fb53b648f11d64cea230c",
+      "xpath": "/html[1]/body[1]/app-root[1]/div[1]/app-home-page[1]/div[2]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.creditacceptance.com/",
+      "urlHash": "3ce32342ad47e4ff492537237f789c86fb6e2f74",
+      "uuid": "3ce32342-10-bb01def7d2aca8a616a583ef96a708a146f8b455",
+      "xpath": "/html[1]/body[1]/app-root[1]/div[1]/app-home-page[1]/app-numbers-speak[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.creditacceptance.com/",
+      "urlHash": "3ce32342ad47e4ff492537237f789c86fb6e2f74",
+      "uuid": "3ce32342-12-fb8ef51326fa81acabdb0b3d8d80e9a03f736c36",
+      "xpath": "/html[1]/body[1]/app-root[1]/div[1]/app-home-page[1]/app-hear-from-people[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.creditacceptance.com/",
+      "urlHash": "3ce32342ad47e4ff492537237f789c86fb6e2f74",
+      "uuid": "3ce32342-14-5e03da81e7545b279b283dffbb4dc740347d6dba",
+      "xpath": "/html[1]/body[1]/app-root[1]/div[1]/app-home-page[1]/app-hear-from-people[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.creditacceptance.com/",
+      "urlHash": "3ce32342ad47e4ff492537237f789c86fb6e2f74",
+      "uuid": "3ce32342-15-2d5f755c4aca36719873c74c02b77d1fdc6a60d6",
+      "xpath": "/html[1]/body[1]/app-root[1]/div[1]/app-home-page[1]/div[3]/div[1]/div[1]"
+    }
+  ]
+}
