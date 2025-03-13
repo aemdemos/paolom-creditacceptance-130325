@@ -1,0 +1,820 @@
+{
+  "originUrl": "https://www.creditacceptance.com/",
+  "urls": [
+    {
+      "url": "https://www.creditacceptance.com/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/about",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/about/contact-us",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/about/esg",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/alerts",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/3-simple-steps-to-start-your-approval-for-your-next-c-1",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/5-foods-you-can-eat-in-your-car-without-making-a-mess",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/a-complete-auto-financing-guide-for-first-time-car-buyers",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/buying-a-car-with-bad-credit-or-no-credit",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/can-i-buy-a-car-after-bankruptcy-",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/can-i-buy-a-car-with-multiple-repossessions-in-my-credit-history-",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/can-i-buy-a-car-with-no-down-payment-",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/checking-the-vehicle-history-report-on-a-used-car",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/cosigner",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/does-my-employment-status-impact-my-ability-to-buy-a-car-",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/gas-vs-electric-car-facts",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/getting-car-insurance-5-things-to-consider",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/how-auto-financing-can-impact-your-credit-history",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/how-financing-a-car-through-a-dealer-on-the-credit-acceptance-program-can-help-rebuild-your-credit",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/how-getting-into-a-car-accident-can-affect-your-auto-insurance",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/how-it-works-getting-financed-through-a-dealer-enrolled-with-credit-acceptance",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/how-much-time-do-you-spend-in-your-car-",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/how-protecting-yourself-against-fraud-can-protect-your-credit",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/how-to-build-your-credit-history-after-college",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/how-to-calculate-the-gas-cost-of-a-road-trip",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/how-to-change-a-flat-tire",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/how-to-clean-your-car-s-engine",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/how-to-determine-your-car-budget",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/how-to-determine-your-monthly-car-payment-when-purchasing-a-vehic-2",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/how-to-estimate-your-car-insurance-costs-before-purchasing-a-vehicle",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/how-to-improve-your-credit-budgeting",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/how-to-improve-your-credit-establishing-credit-history",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/how-to-improve-your-credit-fixing-errors-on-your-credit-report",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/how-to-improve-your-credit-paying-down-debt",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/how-to-increase-your-chances-of-getting-approved-for-auto-financing",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/how-to-narrow-down-your-options-when-shopping-for-a-car",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/how-to-parallel-park-your-car",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/how-to-pay-off-your-car-financing-faster",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/how-to-protect-your-car-from-getting-stolen",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/how-to-rebuild-your-credit-after-repossession",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/how-to-reduce-your-vehicle-wear-and-tear-with-car-maintenance",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/how-to-register-your-vehicle",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/how-to-save-and-set-a-budget-to-purchase-a-vehic-3",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/how-to-trade-in-your-car",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/is-now-the-right-time-for-you-to-buy-a-car-",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/key-information-you-ll-find-in-your-car-manual",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/long-lasting-vehicles-of-2021",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/maintain-or-trade-evaluating-the-cost-of-repairing-vs-trading-in-your-car",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/our-journey-with-diversity-inclusion",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/pros-and-cons-of-online-car-shopping",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/rebuilding-your-credit-with-bad-credit-history",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/should-i-buy-a-new-or-used-car-",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/should-you-check-your-credit-score-before-purchasing-a-vehicle-",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/subprime-car-financing-can-help-your-dealership-and-your-customers",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/the-basics-of-how-credit-works",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/the-difference-between-direct-and-indirect-auto-financing",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/the-difference-between-leasing-and-auto-financi-1",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/the-ultimate-guide-to-buy-a-car-and-improve-your-credit",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/top-family-cars-suvs-to-consider-when-car-buying",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/understanding-your-car-payment-interest-bearing-",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/understanding-your-car-payment-precomputed-",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/used-car-buying-resources",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/what-documents-do-i-need-to-purchase-a-vehicle-",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/what-factors-affect-my-car-payments-",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/what-is-the-difference-between-my-credit-report-and-credit-score-",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/what-is-the-minimum-employment-length-for-credit-approval-",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/what-s-the-difference-between-a-car-loan-and-auto-financing-",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/what-should-i-do-if-i-keep-getting-turned-down-for-auto-financing-",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/what-to-know-when-applying-for-auto-financing",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/what-we-embrace",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/why-is-a-car-title-important-",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/why-it-s-important-to-check-the-odometer-before-purchasing-a-used-c-2",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/consumer/why-you-should-know-your-credit-history-before-buying-a-car",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/dealer/3-effective-ways-to-improve-your-car-sales",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/dealer/3-ways-to-improve-your-car-dealership-s-cash-flow",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/dealer/4-keys-to-having-a-successful-inventory-reconditioning-process",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/dealer/benefits-of-having-an-automotive-crm-system-at-your-dealership",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/dealer/car-buying-trends-for-millennials-1",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/dealer/car-buying-trends-for-recent-college-grads-and-students",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/dealer/car-selling-101-how-to-maintain-repeat-and-referral-business-for-your-dealersh-1",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/dealer/creative-ways-to-build-brand-awareness-for-your-dealership",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/dealer/different-trends-of-male-and-female-car-buyers",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/dealer/how-car-dealers-can-approve-customers-with-bad-credit-or-no-credit",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/dealer/how-car-dealerships-can-approve-car-buyers-with-multiple-open-autos-or-repossessions",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/dealer/how-dealerships-can-approve-car-buyers-with-bankruptcy-or-foreclosure",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/dealer/how-dealerships-can-approve-car-buyers-with-unemployment-or-fixed-income",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/dealer/how-does-the-credit-acceptance-program-work-",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/dealer/how-the-credit-acceptance-portfolio-program-can-help-your-bhph-dealership",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/dealer/how-the-credit-acceptance-portfolio-program-can-help-your-franchise-dealership",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/dealer/how-the-credit-acceptance-portfolio-program-can-help-your-independent-dealership",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/dealer/how-to-create-a-positive-team-atmosphere-in-your-car-dealership",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/dealer/how-to-equip-your-car-dealership-to-maintain-compliance",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/dealer/how-to-secure-financing-options-for-your-car-dealership",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/dealer/increasing-used-car-sales-at-your-franchise-dealership",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/dealer/listening-to-understand-your-customers-vs-listening-to-sell",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/dealer/questions-to-ask-customers-looking-to-buy-a-car",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/dealer/subprime-car-financing-can-help-your-dealership-and-your-customers",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/dealer/top-5-ways-your-car-dealership-can-generate-leads",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/dealer/ways-to-train-your-car-dealership-staff-effectively",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/dealer/what-bhph-dealers-should-know-about-subprime-financing",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/dealer/why-lead-generation-is-important-for-your-car-dealership",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/blog/dealer/why-your-dealership-website-should-be-mobile-friendly",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/caps-redirect",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/car-buyers",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/car-buyers/car-price-calculator",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/car-buyers/express-lane",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/car-buyers/express-lane/5-things-to-know-when-visiting-the-dealership",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/car-buyers/express-lane/5-ways-to-build-or-reestablish-your-credit-history",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/car-buyers/express-lane/credit-myths-debunked",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/car-buyers/express-lane/factors-when-choosing-a-car",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/car-buyers/express-lane/financial-education",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/car-buyers/express-lane/first-time-car-buyer-mistakes",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/car-buyers/express-lane/first-time-car-buyer-what-you-should-know",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/car-buyers/express-lane/questions-for-car-dealers",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/car-buyers/express-lane/benefits-of-gas-hybrid-and-electric-vehicles",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/car-buyers/express-lane/auto-financing-101-how-does-interest-work",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/car-buyers/how-it-works",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/car-buyers/monthly-payment-calculator",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/car-buyers/resources",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/car-buyers/videos",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/careers",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/careers-site-maintenance",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/careers/analytics",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/careers/business-operations",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/careers/community",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/careers/engineering",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/careers/finance",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/careers/hr",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/careers/legal",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/careers/marketing",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/careers/product-management",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/careers/sales",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/careers/strategic-alignment",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/combs-profile",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/consumer-video-page",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/contreras-profile",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/coronavirus-response",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/corporate-support",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/customer",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/customer-review-david",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/customer-review-floyd",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/customer-review-jaleise-%7c-detroit-mi",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/customer-review-joe-and-wendy",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/customer-review-kyle",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/customer-review-lauren-%7c-cleveland-heights-oh",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/customer-review-leslie-roseville-mi",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/customer-review-mia",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/customers",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/customers/faq",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/customers/make-a-payment",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/customers/make-a-payment/guest-payment",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/customers/reviews",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/dealer-review-moore-stewart-ford",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/dealer-review-twins-auto-sales",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/dealer-review-websmart-auto-spencerport-ny",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/dealer-video-page",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/dealers",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/dealers/caps-maintenance",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/dealers/caps-redirect",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/dealers/faq",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/dealers/how-it-works",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/dealers/join-our-network",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/dealers/resources",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/dealers/reviews",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/dealers/reviews/automax-inc",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/dealers/reviews/bells-auto-sales",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/dealers/reviews/joshua-motors",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/dealers/reviews/magic-city-motorcars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/dealers/reviews/moore-stewart-ford",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/dealers/reviews/mt-moriah-auto-sales",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/dealers/reviews/premier-automotive",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/dealers/reviews/reels-auto-sales",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/dealers/reviews/ride-rite",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/dealers/reviews/steve-landers-auto",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/dealers/reviews/twins-auto-sales",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/dealers/reviews/websmart-auto",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/dealers/reviews/zeigler-auto",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/dealers/the-lot",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/dealers/the-lot/3-effective-ways-to-improve-your-car-sales",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/dealers/the-lot/guide-customer-centric-dealerships",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/dealers/the-lot/auto-industry-trends-for-new-and-used-cars",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/dealers/videos",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/elliott-profile",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/get-prequalified",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/hurst-profile",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/lee-profile",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/legal/accessibility",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/legal/dealer-electronic-signatures-consent",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/legal/language-services-for-nyc-residents",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/legal/privacy",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/legal/terms-of-use",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/legal/user-agreement-and-privacy",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/login",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/lum-profile",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/manage-your-account",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/online-verification",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/raffoul-profile",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/raizada-profile",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/technology-department",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/tisler-profile",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.creditacceptance.com/your-credit-approval",
+      "source": "CRAWL"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "SITEMAPS",
+    "logger": {}
+  },
+  "extractionErrors": []
+}
